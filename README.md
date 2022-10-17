@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @melihhtasci
 - 👀 I’m interested in Java, .Net and Microservice Architecture
 - 🌱 I’m currently learning DDD
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[Linkedin](https://www.linkedin.com/in/melihhtasci)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/melihhtasci)
 
 <!---
 melihhtasci/melihhtasci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
